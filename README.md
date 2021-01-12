@@ -4,4 +4,4 @@ If you see this, you are probably interested in this game. Download the newest v
 
 If you do, enjoy playing!
 
-## Download the newest Version [here](/releases/latest)!
+## Download the newest Version [here](https://github.com/timothebot/platformer_builds/releases)!
