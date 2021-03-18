@@ -1,1 +1,1 @@
-{"bestTime":17249.958984375,"username":"user","newestLevel":1.100000023841858}
+{"bestTime":15516.623046875,"username":"user","newestLevel":1.3000000715255738}
